@@ -1,15 +1,16 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 ## Bem-vindo(a) ao perfil de Izaias JR
 
-I'm FullStack Developer 
+I'm FullStack Developer passionate about technology and innovation, always looking for creative solutions to complex problems.
 
-Interests: Fullstack Development
 
-### 🏆 Habilidades  
 
-- **Linguagens**: C#, .NET, JavaScript, SQL, HTML/CSS  
-- **Ferramentas**: Visual Studio, Entity Framework, ASP.NET, Git & GitHub  
-- **Áreas de Interesse**: Desenvolvimento de APIs, Aplicações Web e Desktop, Bancos de Dados
+### 🏆Skills
+
+- **Languages**: C#, .NET, JavaScript, SQL, HTML/CSS  
+- **Tools**: Visual Studio,Visual Code
+- **Interests**: Fullstack Development
+
 
 
 ## &nbsp;Programming Languages
