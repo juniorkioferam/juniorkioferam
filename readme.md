@@ -7,8 +7,8 @@ I'm FullStack Developer passionate about technology and innovation, always looki
 
 ### 🏆Skills
 
-- **Languages**: C#, .NET, JavaScript, SQL, HTML/CSS  
-- **Tools**: Visual Studio,Visual Code
+- **Languages**:. JavaScript, SQL, HTML/CSS  
+- **Tools**: Visual Code
 - **Interests**: Fullstack Development
 
 
